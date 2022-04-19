@@ -17,7 +17,7 @@ class Api:
         if key == None:
             self.secret = "abcdef102345"
         else:
-            self.secret = secret
+            self.secret = key
 
         self.secret = base64.b64encode(
             (self.secret + ":").encode("utf-8")
@@ -79,8 +79,8 @@ class Api:
 # Command-line argument parser
 parser = argparse.ArgumentParser(description="Gnucash to HMRC VAT API")
 parser.add_argument('--listen', '-l',
-		    default='localhost:8080',
-                    help='Host/port to listen on (default: localhost:8080)')
+		    default='0.0.0.0:8080',
+                    help='Host/port to listen on (default: 0.0.0.0:8080)')
 parser.add_argument('--companies', '-c',
 		    default='companies.json',
                     help='Data file to load at init (default: companies.json)')
