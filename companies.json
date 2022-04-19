@@ -1,0 +1,518 @@
+{
+    "SC216315": {
+        "company": {
+            "jurisdiction": "scotland",
+            "date_of_creation": "2001-03-01",
+            "company_name": "SCOTLAND A LA CARTE TRAVEL LIMITED",
+            "accounts": {
+                "next_accounts": {
+                    "overdue": false,
+                    "period_end_on": "2021-03-31",
+                    "period_start_on": "2020-04-01",
+                    "due_on": "2022-03-31"
+                },
+                "accounting_reference_date": {
+                    "month": "03",
+                    "day": "31"
+                },
+                "next_due": "2022-03-31",
+                "overdue": false,
+                "last_accounts": {
+                    "type": "total-exemption-full",
+                    "made_up_to": "2020-03-31",
+                    "period_end_on": "2020-03-31",
+                    "period_start_on": "2019-04-01"
+                },
+                "next_made_up_to": "2021-03-31"
+            },
+            "has_been_liquidated": false,
+            "status": "active",
+            "last_full_members_list_date": "2016-03-01",
+            "registered_office_address": {
+                "address_line_2": "Edinburgh",
+                "postal_code": "EH7 5JY",
+                "address_line_1": "36 Montgomery Street",
+                "locality": "Midlothian"
+            },
+            "sic_codes": [
+                "79909"
+            ],
+            "company_number": "SC216315",
+            "type": "ltd",
+            "undeliverable_registered_office_address": false,
+            "has_insolvency_history": false,
+            "etag": "6fcd9b534c627359646044760c89cc3eab50eae3",
+            "company_status": "active",
+            "has_charges": false,
+            "confirmation_statement": {
+                "next_made_up_to": "2022-03-01",
+                "overdue": false,
+                "next_due": "2022-03-15",
+                "last_made_up_to": "2021-03-01"
+            },
+            "links": {
+                "self": "/company/SC216315",
+                "filing_history": "/company/SC216315/filing-history",
+                "officers": "/company/SC216315/officers",
+                "persons_with_significant_control": "/company/SC216315/persons-with-significant-control"
+            },
+            "registered_office_is_in_dispute": false,
+            "has_super_secure_pscs": false,
+            "can_file": true
+        },
+        "officers": {
+            "resigned_count": 2,
+            "total_results": 3,
+            "links": {
+                "self": "/company/SC216315/officers"
+            },
+            "active_count": 1,
+            "etag": "cb42446972764e7c37c01568182a221f98ef4a5e",
+            "kind": "officer-list",
+            "inactive_count": 0,
+            "items_per_page": 35,
+            "items": [
+                {
+                    "officer_role": "director",
+                    "country_of_residence": "Scotland",
+                    "occupation": "Tour Operator",
+                    "nationality": "German",
+                    "date_of_birth": {
+                        "month": 10,
+                        "year": 1970
+                    },
+                    "name": "BECKER, Roland Wolfgang",
+                    "appointed_on": "2001-03-01",
+                    "address": {
+                        "postal_code": "EH7 5JY",
+                        "region": "Midlothian",
+                        "address_line_1": "36 Montgomery Street",
+                        "locality": "Edinburgh"
+                    },
+                    "links": {
+                        "officer": {
+                            "appointments": "/officers/jS5cDSSNLHUy0d8LfsyM4A6ZW5c/appointments"
+                        },
+                        "self": "/company/SC216315/appointments/qVPb3Rn6aBCjvBlFKq249sX21II"
+                    }
+                },
+                {
+                    "resigned_on": "2018-03-15",
+                    "links": {
+                        "self": "/company/SC216315/appointments/cEhbvn2xBLMQRZq0bpxbVUguXU8",
+                        "officer": {
+                            "appointments": "/officers/RbDD4Kon_LeLBkqzn8kIIJYMbCA/appointments"
+                        }
+                    },
+                    "nationality": "British",
+                    "appointed_on": "2001-03-01",
+                    "name": "SMITH, Gary",
+                    "officer_role": "secretary",
+                    "address": {
+                        "address_line_2": "Basement Flat",
+                        "region": "Midlothian",
+                        "postal_code": "EH3 9JH",
+                        "locality": "Edinburgh",
+                        "address_line_1": "10/1 Brougham Street"
+                    }
+                },
+                {
+                    "links": {
+                        "self": "/company/SC216315/appointments/xro-XnCfqjAcrFkeRfeCTptltqw",
+                        "officer": {
+                            "appointments": "/officers/INnw2YgzneQMDqbhRRrCwR9v6M8/appointments"
+                        }
+                    },
+                    "resigned_on": "2001-03-01",
+                    "appointed_on": "2001-03-01",
+                    "name": "OSWALDS OF EDINBURGH LIMITED",
+                    "officer_role": "corporate-nominee-secretary",
+                    "address": {
+                        "postal_code": "EH3 6QN",
+                        "address_line_1": "24 Great King Street",
+                        "locality": "Edinburgh"
+                    }
+                }
+            ],
+            "start_index": 0
+        }
+    },
+    "12874000": {
+        "company": {
+            "links": {
+                "filing_history": "/company/12874000/filing-history",
+                "persons_with_significant_control": "/company/12874000/persons-with-significant-control",
+                "self": "/company/12874000",
+                "officers": "/company/12874000/officers"
+            },
+            "accounts": {
+                "next_due": "2023-05-31",
+                "next_made_up_to": "2022-08-31",
+                "last_accounts": {
+                    "made_up_to": "2021-09-01",
+                    "type": "micro-entity",
+                    "period_end_on": "2021-09-01",
+                    "period_start_on": "2020-09-11"
+                },
+                "accounting_reference_date": {
+                    "month": "08",
+                    "day": "31"
+                },
+                "next_accounts": {
+                    "due_on": "2023-05-31",
+                    "overdue": false,
+                    "period_end_on": "2022-08-31",
+                    "period_start_on": "2021-09-02"
+                },
+                "overdue": false
+            },
+            "company_name": "CYBERAPOCALYPSE LIMITED",
+            "company_number": "12874000",
+            "company_status": "active",
+            "confirmation_statement": {
+                "last_made_up_to": "2021-09-10",
+                "next_due": "2022-09-24",
+                "next_made_up_to": "2022-09-10",
+                "overdue": false
+            },
+            "date_of_creation": "2020-09-11",
+            "etag": "7e497a918584a710554a61d3473ef517cbf584f8",
+            "has_charges": false,
+            "has_insolvency_history": false,
+            "jurisdiction": "england-wales",
+            "registered_office_address": {
+                "country": "England",
+                "address_line_1": "Stanhope",
+                "postal_code": "GL51 6RL",
+                "address_line_2": "The Reddings",
+                "locality": "Cheltenham"
+            },
+            "registered_office_is_in_dispute": false,
+            "sic_codes": [
+                "62020",
+                "62090"
+            ],
+            "type": "ltd",
+            "undeliverable_registered_office_address": false,
+            "has_super_secure_pscs": false,
+            "can_file": true
+        },
+        "officers": {
+            "kind": "officer-list",
+            "items": [
+                {
+                    "name": "ADAMS, Mark Douglas",
+                    "occupation": "Consultant",
+                    "nationality": "British",
+                    "links": {
+                        "self": "/company/12874000/appointments/JEs6yM-qfY8y0LlGww26Ysu_1HI",
+                        "officer": {
+                            "appointments": "/officers/obmHULJKT2h9UTbjv1YUjHKOjwA/appointments"
+                        }
+                    },
+                    "officer_role": "director",
+                    "address": {
+                        "locality": "Cheltenham",
+                        "premises": "Stanhope",
+                        "country": "England",
+                        "postal_code": "GL51 6RL",
+                        "address_line_1": "The Reddings"
+                    },
+                    "date_of_birth": {
+                        "month": 2,
+                        "year": 1970
+                    },
+                    "appointed_on": "2020-09-11",
+                    "country_of_residence": "England"
+                }
+            ],
+            "start_index": 0,
+            "resigned_count": 0,
+            "links": {
+                "self": "/company/12874000/officers"
+            },
+            "etag": "334a58ae4df575d0ad4b8c109cf2e05fb07bd874",
+            "inactive_count": 0,
+            "total_results": 1,
+            "items_per_page": 35,
+            "active_count": 1
+        }
+    },
+    "13383108": {
+        "company": {
+            "accounts": {
+                "overdue": false,
+                "next_made_up_to": "2022-05-31",
+                "last_accounts": {
+                    "type": "null"
+                },
+                "next_accounts": {
+                    "period_start_on": "2021-05-07",
+                    "period_end_on": "2022-05-31",
+                    "overdue": false,
+                    "due_on": "2023-02-07"
+                },
+                "next_due": "2023-02-07",
+                "accounting_reference_date": {
+                    "month": "05",
+                    "day": "31"
+                }
+            },
+            "company_name": "EXAMPLE LTD",
+            "company_number": "13383108",
+            "company_status": "active",
+            "confirmation_statement": {
+                "next_due": "2022-05-20",
+                "overdue": false,
+                "next_made_up_to": "2022-05-06"
+            },
+            "date_of_creation": "2021-05-07",
+            "etag": "db61d7b6cbf6e536c9b23dd4fe539316219223ca",
+            "has_charges": false,
+            "has_insolvency_history": false,
+            "has_super_secure_pscs": false,
+            "jurisdiction": "england-wales",
+            "links": {
+                "self": "/company/13383108",
+                "filing_history": "/company/13383108/filing-history",
+                "persons_with_significant_control": "/company/13383108/persons-with-significant-control",
+                "officers": "/company/13383108/officers"
+            },
+            "registered_office_address": {
+                "locality": "Hertfordshire",
+                "address_line_2": "Potters Bar",
+                "address_line_1": "26 Barnet Road",
+                "country": "United Kingdom",
+                "postal_code": "EN6 2QU"
+            },
+            "registered_office_is_in_dispute": false,
+            "sic_codes": [
+                "56103"
+            ],
+            "type": "ltd",
+            "undeliverable_registered_office_address": false,
+            "can_file": true
+        },
+        "officers": {
+            "total_results": 1,
+            "items_per_page": 35,
+            "active_count": 1,
+            "etag": "40d23d13662e1a06ecbd4372613f3418742a0a2f",
+            "inactive_count": 0,
+            "resigned_count": 0,
+            "start_index": 0,
+            "links": {
+                "self": "/company/13383108/officers"
+            },
+            "kind": "officer-list",
+            "items": [
+                {
+                    "country_of_residence": "United Kingdom",
+                    "date_of_birth": {
+                        "month": 10,
+                        "year": 1989
+                    },
+                    "appointed_on": "2021-05-07",
+                    "address": {
+                        "country": "United Kingdom",
+                        "premises": "26",
+                        "postal_code": "EN6 2QU",
+                        "locality": "Hertfordshire",
+                        "address_line_2": "Potters Bar",
+                        "address_line_1": "Barnet Road"
+                    },
+                    "links": {
+                        "self": "/company/13383108/appointments/LPbPof2-JaKoi4QA9qN4plXXWsY",
+                        "officer": {
+                            "appointments": "/officers/CjFnkJfmWvDPBsOJvblZGnf5Nk4/appointments"
+                        }
+                    },
+                    "nationality": "British",
+                    "name": "CICEK, Ebru",
+                    "occupation": "Director",
+                    "officer_role": "director"
+                }
+            ]
+        }
+    },
+    "11604485": {
+        "company": {
+            "links": {
+                "filing_history": "/company/11604485/filing-history",
+                "self": "/company/11604485",
+                "officers": "/company/11604485/officers",
+                "persons_with_significant_control": "/company/11604485/persons-with-significant-control"
+            },
+            "sic_codes": [
+                "96090"
+            ],
+            "company_number": "11604485",
+            "company_status": "dissolved",
+            "date_of_creation": "2018-10-04",
+            "registered_office_is_in_dispute": false,
+            "company_name": "EXAMPLE LIMITED",
+            "registered_office_address": {
+                "postal_code": "CA12 5EY",
+                "address_line_1": "9 Heads Mount",
+                "locality": "Keswick",
+                "country": "United Kingdom"
+            },
+            "etag": "84952dc7a566fb2759b182037f360d0e5776f1c1",
+            "jurisdiction": "england-wales",
+            "accounts": {
+                "accounting_reference_date": {
+                    "day": "31",
+                    "month": "12"
+                },
+                "last_accounts": {
+                    "made_up_to": "2019-12-31",
+                    "period_end_on": "2019-12-31",
+                    "type": "dormant"
+                }
+            },
+            "type": "ltd",
+            "has_insolvency_history": false,
+            "has_charges": false,
+            "undeliverable_registered_office_address": false,
+            "has_super_secure_pscs": false,
+            "date_of_cessation": "2021-04-06",
+            "can_file": false
+        },
+        "officers": {
+            "active_count": 0,
+            "kind": "officer-list",
+            "resigned_count": 0,
+            "links": {
+                "self": "/company/11604485/officers"
+            },
+            "items": [
+                {
+                    "country_of_residence": "United Kingdom",
+                    "links": {
+                        "self": "/company/11604485/appointments/iQOmZprQWHCmwn6f4tjnfGN9gQg",
+                        "officer": {
+                            "appointments": "/officers/_h--z4gyiskuBn7HWKkkoeU4y5k/appointments"
+                        }
+                    },
+                    "name": "BURTON, James Harold",
+                    "nationality": "British",
+                    "address": {
+                        "premises": "9",
+                        "postal_code": "CA12 5EY",
+                        "address_line_1": "Heads Mount",
+                        "locality": "Keswick",
+                        "country": "United Kingdom"
+                    },
+                    "occupation": "Director",
+                    "officer_role": "director",
+                    "date_of_birth": {
+                        "year": 1992,
+                        "month": 10
+                    },
+                    "appointed_on": "2018-10-04"
+                }
+            ],
+            "items_per_page": 35,
+            "total_results": 1,
+            "inactive_count": 1,
+            "start_index": 0,
+            "etag": "e0ec20be631b027c09c4f459e70cfe886aa9c26b"
+        }
+    },
+    "13939350": {
+        "company": {
+            "links": {
+                "filing_history": "/company/13939350/filing-history",
+                "self": "/company/13939350",
+                "officers": "/company/13939350/officers",
+                "persons_with_significant_control": "/company/13939350/persons-with-significant-control"
+            },
+            "accounts": {
+                "next_accounts": {
+                    "overdue": false,
+                    "due_on": "2023-10-31",
+                    "period_end_on": "2023-01-31",
+                    "period_start_on": "2022-02-24"
+                },
+                "next_made_up_to": "2023-01-31",
+                "next_due": "2023-10-31",
+                "last_accounts": {
+                    "type": "null"
+                },
+                "accounting_reference_date": {
+                    "month": "01",
+                    "day": "31"
+                },
+                "overdue": false
+            },
+            "company_name": "ACCOUNTS MACHINE LIMITED",
+            "company_number": "13939350",
+            "company_status": "active",
+            "confirmation_statement": {
+                "next_made_up_to": "2023-02-23",
+                "next_due": "2023-03-09",
+                "overdue": false
+            },
+            "date_of_creation": "2022-02-24",
+            "etag": "a616db8ac468d842f10d0fe105c14cca235a4292",
+            "has_charges": false,
+            "has_insolvency_history": false,
+            "has_super_secure_pscs": false,
+            "jurisdiction": "england-wales",
+            "registered_office_address": {
+                "address_line_1": "Stanhope",
+                "locality": "Cheltenham",
+                "postal_code": "GL51 6RL",
+                "country": "England",
+                "address_line_2": "The Reddings"
+            },
+            "registered_office_is_in_dispute": false,
+            "sic_codes": [
+                "62090"
+            ],
+            "type": "ltd",
+            "undeliverable_registered_office_address": false,
+            "can_file": true
+        },
+        "officers": {
+            "inactive_count": 0,
+            "links": {
+                "self": "/company/13939350/officers"
+            },
+            "kind": "officer-list",
+            "active_count": 1,
+            "resigned_count": 0,
+            "etag": "a5739e1ec9894a4e5717ef0b15c39d38e4df56fe",
+            "items": [
+                {
+                    "nationality": "British",
+                    "appointed_on": "2022-02-24",
+                    "name": "ADAMS, Mark Douglas",
+                    "date_of_birth": {
+                        "year": 1970,
+                        "month": 2
+                    },
+                    "address": {
+                        "postal_code": "GL51 6RL",
+                        "address_line_1": "The Reddings",
+                        "locality": "Cheltenham",
+                        "premises": "Stanhope",
+                        "country": "England"
+                    },
+                    "links": {
+                        "self": "/company/13939350/appointments/3oQxDteCOV0KF2e-124rNJhTjLQ",
+                        "officer": {
+                            "appointments": "/officers/obmHULJKT2h9UTbjv1YUjHKOjwA/appointments"
+                        }
+                    },
+                    "occupation": "Consultant",
+                    "officer_role": "director",
+                    "country_of_residence": "England"
+                }
+            ],
+            "items_per_page": 35,
+            "total_results": 1,
+            "start_index": 0
+        }
+    }
+}
