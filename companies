@@ -62,8 +62,8 @@ class Api:
 
         app = web.Application()
 
-        app.router.add_get('/company/{id}', self.get)
-        app.router.add_get('/company/{id}/officers', self.get_officers)
+        app.router.add_post('/company/{id}', self.get)
+        app.router.add_post('/company/{id}/officers', self.get_officers)
 
         runner = web.AppRunner(app)
         await runner.setup()
