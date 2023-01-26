@@ -1,0 +1,3 @@
+name: companies-test-service
+description: Companies House lookup test service
+runtime: nodejs
